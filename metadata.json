@@ -1,0 +1,5 @@
+{
+  "name": "Five Eyes: Multimodal Analysis",
+  "description": "An application acting as a 'Five Eyes' agent to perform comprehensive multimodal analysis on media files, including content and metadata.",
+  "requestFramePermissions": []
+}
